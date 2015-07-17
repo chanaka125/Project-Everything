@@ -5,6 +5,7 @@ public class Main {
 		System.out.println("Hello GIT");
 		Student std1 = new Student("chanaka", 23);
 		std1.display();
+		System.out.println("First change");
 	}
 
 }
